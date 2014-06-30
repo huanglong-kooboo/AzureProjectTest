@@ -1,0 +1,2 @@
+C:\PersonalBackup\Projects\AzureProjectTest\WindowsAzure2\bin\Debug\ServiceConfiguration.cscfg
+C:\PersonalBackup\Projects\AzureProjectTest\WindowsAzure2\bin\Debug\ServiceDefinition.csdef
